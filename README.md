@@ -6,7 +6,7 @@ I'm passionate about building modern web applications and exploring Artificial I
 
 ## 💻 Tech Stack
 - **Languages:** C, C++, Java, Python, JavaScript, SQL
-- **Frontend:** HTML, CSS, Bootstrap, React
+- **Frontend:** HTML, CSS, React
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL, PostgreSQL
 - **Tools:** Git, GitHub, VS Code
